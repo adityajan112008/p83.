@@ -1,0 +1,32 @@
+.body_backgorund {
+    background-image: url("school-background-with-pencils-5a3b8478d8bde3.5546245115138499768878.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  #h1{
+      color: rgb(255, 0, 0); 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #faea09;
+    border: none;
+    color: rgb(3, 3, 3);
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
